@@ -1,6 +1,6 @@
 const filesToCache = [
 	"Virtual95.htm",
-	"Virtual95.iso",
+	"c.img.001",
 	"Virtual95.js",
 	"Virtual95.json",
 	"Virtual95.png",
